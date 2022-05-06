@@ -36,7 +36,7 @@ Takım 73
 - 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
+[Trello](https://trello.com/b/RLnIY6ov/mineraller)
 
 ---
 
