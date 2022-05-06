@@ -1,38 +1,39 @@
 # **Takım İsmi**
 
-Takım X
+Takım 73
 
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+- Merve Gümüş: Product Owner
+- Fatma Nur Yavuz: Scrum Master
+- Barış Üstün: Team Member/Developer
+- Gülnihal Uykun: Team Member/Developer
+- Pınar Başol: Team Member/Developer
 
 ## Ürün İsmi
 
---Movie App--
+--D'Mottie--
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+- D’Mottie, insanların günlük yaşam streslerini azaltmak ve motivasyonlarını artırmak adına destek olmayı amaçlar. Kullanıcın modlarına göre akıllı öneriler veren ve kullanıcı tercihine göre bildirimlerle kalplere dokunan bir uygulama.
 
 ## Ürün Özellikleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+- Modlara göre özelleştirilmiş akıllı motivasyon cümleleri ve öneriler
+- Seçilen zaman aralığına göre gönderilen bildirimler ile aktif olması
+- Seçilen moda göre uygulama temasının renk değişimi
+
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
 - 15 - 65 yaş arası kullanıcılar
-
+- Kişisel gelişim ile ilgilenenler
+- Motivasyon ihtiyacı olan kişiler
+- Genel herkese hitap eden bir kitle
+- 
 ## Product Backlog URL
 
 [Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
