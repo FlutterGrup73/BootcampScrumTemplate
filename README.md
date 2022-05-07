@@ -75,7 +75,7 @@ Bu sprintte en başta takım üyelerinin proje önerilerini demokratik bir biçi
 
 
 -**Diğer Notlar**:
-- N/A
+- Günlük kısa görüşmeler ve Whatsapp üzerinden iletişimlerimiz devam etmektedir. Ayrıca daily Zoom toplantıları yerine haftada 2-3 defa yapılacak Zoom toplantıları ile güncelliği koruma fikri kararlaştırıldı.
 
 ---
 
