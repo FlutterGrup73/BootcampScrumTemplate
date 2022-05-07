@@ -26,14 +26,12 @@ Takım 73
 - Seçilen zaman aralığına göre gönderilen bildirimler ile aktif olması
 - Seçilen moda göre uygulama temasının renk değişimi
 
-
 ## Hedef Kitle
 
 - 15 - 65 yaş arası kullanıcılar
 - Kişisel gelişim ile ilgilenenler
 - Motivasyon ihtiyacı olan kişiler
-- Genel herkese hitap eden bir kitle
-- 
+
 ## Product Backlog URL
 
 [Trello](https://trello.com/b/RLnIY6ov/mineraller)
