@@ -50,8 +50,6 @@ Takım 73
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
-
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/Daily%20Scrum%20Meeting%20Notes%20Sprint%201.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
@@ -67,12 +65,15 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
   
 
 - **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+Bu sprintte en başta takım üyelerinin proje önerilerini demokratik bir biçimde oyladık. Bu oylamada göz önünde bulundurduğumuz en önemli kriterler projenin kapsamı ve projenin yapılabilirliği (zaman kısıtından ötürü) oldu. Devamında projenin temel taşları olan uygulama ismini, işlevini, potansiyel kullanıcı yaş aralığını ve kullanılacak temaları belirledik. Bu bağlamda motivasyon temelli uygulamamız birden fazla ruh haline göre ön ayarlı motivasyon cümleleri ve akıllı öneri sistemi sunacaktır. Kişiselleştirilmiş özellikleri arasında da saate ve ruh haline göre özel öneriler geliştirilmesi düşünülmüştür. Ekibin tamamına yetenekleri göz önünde bulundurularak görev paylaşımı yapılmıştır. Ayrıca bu görevler ve görevlerin beraberinde getirdiği raporlamalar önceden planlanmış Zoom oturumlarında güncellenecektir.
+
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+  - Takım içindeki belirlenen görev dağılımları proje yönetimi, tasarım, araştırma, kodlama ve veri tabanı oluşturma alt başlıklarında incelenerek dağıtıldı.
+  - Ekibin tamamı bayram tatiline rağmen verilen görevleri yerine getirdi.
+  - Unit testler için efor/saat aralıkları henüz yoğun kodlama dönemine başlanmadığı için belirlenmedi fakat önümüzdeki sprintler için tahmini süre projeksiyonları oluşturuldu.
+
+
 
 -**Diğer Notlar**:
 - N/A
