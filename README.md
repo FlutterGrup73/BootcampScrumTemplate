@@ -8,7 +8,7 @@ Takım 73
 
 - Merve Gümüş: Product Owner
 - Fatma Nur Yavuz: Scrum Master
-- Barış Üstün: Team Member/Developer
+- Aydın Barış Üstün: Team Member/Developer
 - Gülnihal Uykun: Team Member/Developer
 - Pınar Başol: Team Member/Developer
 
