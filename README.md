@@ -70,6 +70,7 @@ Bu sprintte en başta takım üyelerinin proje önerilerini demokratik bir biçi
   - Takım içindeki belirlenen görev dağılımları proje yönetimi, tasarım, araştırma, kodlama ve veri tabanı oluşturma alt başlıklarında incelenerek dağıtıldı.
   - Ekibin tamamı bayram tatiline rağmen verilen görevleri yerine getirdi.
   - Unit testler için efor/saat aralıkları henüz yoğun kodlama dönemine başlanmadığı için belirlenmedi fakat önümüzdeki sprintler için tahmini süre projeksiyonları oluşturuldu.
+  - Ayrıca ilk sprintte daha çok üzerinde durulan araştırma alt başlığı sonraki sprintlerde önemini yitireceği için arta kalan zamanı kodlama ve tasarıma dağıtma fikri planlandı.
 
 
 
