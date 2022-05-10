@@ -44,9 +44,11 @@ Takım 73
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 50 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 150 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 50 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 150 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 50 ile başlaması gerektiğine karar verildi. Her sprinte eşit iş yükü olacak şekilde görev planlaması yapıldı.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da gözüken pembe item'lar gelecek sprinte aktarılan işleri, mavi item'lar yapılıyor olanları, yeşil item'ler sprint1 içerisinde tamamlanan işleri ve sarı item'lar süreçteki notlarımızı temsil etmektedir.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/Daily%20Scrum%20Meeting%20Notes%20Sprint%201.docx)
 
