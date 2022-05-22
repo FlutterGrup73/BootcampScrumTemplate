@@ -97,7 +97,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da backl
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/Sprint2%20Daily%20Scrum%20Chats.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 2](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/Sprint2backlog.png) 
+![Backlog 2](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/sprint2backlogtrello.png) 
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/D'mottie%20(1)-1.png)
