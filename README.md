@@ -43,9 +43,9 @@ Sprint2: [Trello](https://trello.com/b/T0Fug96l/sprint2)
 
 - **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 75 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 70 Puan
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 150 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 50 ile başlaması gerektiğine karar verildi. Her sprinte eşit iş yükü olacak şekilde görev planlaması yapıldı.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 210 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 70 ile başlaması gerektiğine karar verildi. Her sprinte eşit iş yükü olacak şekilde görev planlaması yapıldı.
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
