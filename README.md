@@ -108,19 +108,19 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da backl
   
 
 - **Sprint Review**: 
-Bu sprintte en başta takım üyelerinin proje önerilerini demokratik bir biçimde oyladık. Bu oylamada göz önünde bulundurduğumuz en önemli kriterler projenin kapsamı ve projenin yapılabilirliği (zaman kısıtından ötürü) oldu. Devamında projenin temel taşları olan uygulama ismini, işlevini, potansiyel kullanıcı yaş aralığını ve kullanılacak temaları belirledik. Bu bağlamda motivasyon temelli uygulamamız birden fazla ruh haline göre ön ayarlı motivasyon cümleleri ve akıllı öneri sistemi sunacaktır. Kişiselleştirilmiş özellikleri arasında da saate ve ruh haline göre özel öneriler geliştirilmesi düşünülmüştür. Ekibin tamamına yetenekleri göz önünde bulundurularak görev paylaşımı yapılmıştır. Ayrıca bu görevler ve görevlerin beraberinde getirdiği raporlamalar önceden planlanmış Zoom oturumlarında güncellenecektir.
+Bu sprintte de, ilk sprintte uymak üzere sözleştiğimiz, projenin temel taşlarını değerlendirerek görev dağılımları dahilinde projeyi tamamlama sürecine devam ettik.  Öncelikle tasarımlarımızı derinleştirerek uygulamamızda yer edinecek dört ayrı kategoriyi tam anlamıyla yansıtmayı amaçladık. Dört ayrı kategori olacağı önceden belirlenmişti. Başlangıçta belirlediğimiz dört kategoriden bazılarını revize etmek durumunda kaldık. "Mutlu" ve "Endişeli" kategorileri aynı kaldı. "Üzgün" kategorisini "Duygusal" olarak ve "Öfkeli" kategorisini de "Heyecanlı" olarak güncelledik. Dört kategori için de ilk iterasyonda 15 adet motivasyon sözü ve film/kitap önerisi gibi farklı alternatif mesajlar türettik. Son olarak kodları hayata geçirmeye başladık ve önemli ölçüde tamamladık. Kısaca projemizin kayda değer biçimde hayata geçtiğini belirtebiliriz.
 
 
 - **Sprint Retrospective:**
-  - Takım içindeki belirlenen görev dağılımları proje yönetimi, tasarım, araştırma, kodlama ve veri tabanı oluşturma alt başlıklarında incelenerek dağıtıldı.
-  - Ekibin tamamı bayram tatiline rağmen verilen görevleri yerine getirdi.
-  - Unit testler için efor/saat aralıkları henüz yoğun kodlama dönemine başlanmadığı için belirlenmedi fakat önümüzdeki sprintler için tahmini süre projeksiyonları oluşturuldu.
-  - Ayrıca ilk sprintte daha çok üzerinde durulan araştırma alt başlığı sonraki sprintlerde önemini yitireceği için arta kalan zamanı kodlama ve tasarıma dağıtma fikri planlandı.
+  - Takım içindeki belirlenen görev dağılımları referans alınarak ilgili alt başlıklar dahilinde görevler yerine başarıyla getirildi.
+  - Ekibin tamamı bu sprintte de yine tatil dönemine girmiş olmamıza rağmen verilen görevleri yerine getirdi.
+  - Unit testler için efor/saat aralıkları kodlama dönemine başlandığında beklediğimizden de kısa sürdü.  
+  - Ayrıca ilk sprintte yapmış olduğumuz tahminler beklediğimiz gibi gerçekleşti. Araştırma işlemlerimizin gitgide azalması ile zamanımızın tamamına yakınını kodlama ve tasarıma dağıtmış olduk.
 
 
 
 -**Diğer Notlar**:
-- Günlük kısa görüşmeler ve Whatsapp üzerinden iletişimlerimiz devam etmektedir. Ayrıca daily Zoom toplantıları yerine haftada 2-3 defa yapılacak Zoom toplantıları ile güncelliği koruma fikri kararlaştırıldı.
+- Olası hatalar, debug işlemleri ve gerekli uygulama eklentilerine sprint 3'te değinilmesinin zaman kullanımı açısından en doğru karar olacağı düşünüldü.
 
 ---
 
