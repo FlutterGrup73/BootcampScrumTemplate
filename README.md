@@ -101,11 +101,6 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da backl
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/D'mottie%20(1)-1.png)
-  ![Screenshot 2](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/D'mottie%20(1)-2.png)
-  ![Screenshot 3](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/D'mottie%20(1)-3.png)
-  ![Screenshot 4](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/D'mottie%20(1)-4.png)
-  ![Screenshot 5](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/D'mottie%20(1)-5.png)
-  ![Screenshot 6](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/D'mottie%20(1)-6.png)
   
 
 - **Sprint Review**: 
@@ -117,7 +112,6 @@ Bu sprintte de, ilk sprintte uymak üzere sözleştiğimiz, projenin temel taşl
   - Ekibin tamamı bu sprintte de yine tatil dönemine girmiş olmamıza rağmen verilen görevleri yerine getirdi.
   - Unit testler için efor/saat aralıkları kodlama dönemine başlandığında beklediğimizden de kısa sürdü.  
   - Ayrıca ilk sprintte yapmış olduğumuz tahminler beklediğimiz gibi gerçekleşti. Araştırma işlemlerimizin gitgide azalması ile zamanımızın tamamına yakınını kodlama ve tasarıma dağıtmış olduk.
-
 
 
 -**Diğer Notlar**:
