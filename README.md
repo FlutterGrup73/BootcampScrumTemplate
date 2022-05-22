@@ -34,7 +34,8 @@ Takım 73
 
 ## Product Backlog URL
 
-[Trello](https://trello.com/b/T0Fug96l/sprint2)
+Sprint1: [Trello](https://trello.com/b/RLnIY6ov/mineraller)
+Sprint2: [Trello](https://trello.com/b/T0Fug96l/sprint2)
 
 ---
 
