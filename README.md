@@ -58,7 +58,6 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da göz�
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/D'mottie%20(1)-1.png)
-  ![Screenshot 2](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/D'mottie%20(1)-2.png)
   ![Screenshot 3](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/D'mottie%20(1)-3.png)
   ![Screenshot 4](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/D'mottie%20(1)-4.png)
   
