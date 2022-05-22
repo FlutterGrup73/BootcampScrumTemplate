@@ -97,6 +97,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da backl
 ![Backlog 2](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/sprint2backlogtrello.png) 
 
 - **Ürün Durumu**: Ekran görüntüleri:
+
   ![Screenshot 1](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/appson1.jpg)
   ![Screenshot 2](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/appson2.jpg)
   ![Screenshot 3](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/appson3.jpg)
