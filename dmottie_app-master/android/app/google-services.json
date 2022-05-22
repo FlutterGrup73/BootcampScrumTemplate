@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993350191694",
+    "project_id": "motivasyon-2baa8",
+    "storage_bucket": "motivasyon-2baa8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993350191694:android:0fca42408d7eff0218511f",
+        "android_client_info": {
+          "package_name": "com.gulnihaluykun.motivapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993350191694-3kpj7q11um1jl4012am7plea5i4rte88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjnDNuOTYfJbAkOLh4iVJ2L2gJ8A2fGd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993350191694-3kpj7q11um1jl4012am7plea5i4rte88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
