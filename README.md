@@ -36,8 +36,9 @@ A few resources to get you started if this is your first Flutter project:
 
 ## Product Backlog URL
 
-Sprint1: [Trello](https://trello.com/b/RLnIY6ov/mineraller)
-Sprint2: [Trello](https://trello.com/b/T0Fug96l/sprint2)
+-Sprint1: [Trello](https://trello.com/b/RLnIY6ov/mineraller)
+-Sprint2: [Trello](https://trello.com/b/T0Fug96l/sprint2)
+-Sprint3: [Trello](https://trello.com/b/oaI2pvsL/sprint3)
 
 ---
 
@@ -132,12 +133,12 @@ Bu sprintte de, ilk sprintte uymak üzere sözleştiğimiz, projenin temel taşl
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
-Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da gözüken pembe item'lar gelecek sprinte aktarılan işleri, mavi item'lar yapılıyor olanları, yeşil item'ler sprint1 içerisinde tamamlanan işleri ve sarı item'lar süreçteki notlarımızı temsil etmektedir.
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Backlog, yapılıyor, yapıldı ve notlar olmak üzere 4 liste ile temsil etmektedir.
 
 - **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/Daily%20Scrum%20Meeting%20Notes%20Sprint%201.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/backlogyenitrello.png) 
+![Backlog 1](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/backlogsprint3.png) 
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/1.jpeg)
