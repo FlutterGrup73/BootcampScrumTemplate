@@ -4,7 +4,6 @@
 Takım 73
 
 # Ürün İle İlgili Bilgiler
-## Getting Started
 
 ## Takım Elemanları
 
