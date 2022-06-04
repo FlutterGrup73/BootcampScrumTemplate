@@ -140,9 +140,11 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello Board'da göz�
 ![Backlog 1](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/backlogyenitrello.png) 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/D'mottie%20(1)-1.png)
-  ![Screenshot 3](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/D'mottie%20(1)-3.png)
-  ![Screenshot 4](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/D'mottie%20(1)-4.png)
+  ![Screenshot 1](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/1.jpeg)
+  ![Screenshot 2](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/2.jpeg)
+  ![Screenshot 3](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/3.jpeg)
+  ![Screenshot 4](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/4.jpeg)
+  ![Screenshot 5](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/5.jpeg)
 
 
 - **Sprint Review**: 
