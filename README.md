@@ -12,7 +12,6 @@ Takım 73
 - Aydın Barış Üstün: Team Member/Developer
 - Gülnihal Uykun: Team Member/Developer
 - Pınar Başol: Team Member/Developer
-A few resources to get you started if this is your first Flutter project:
 
 ## Ürün İsmi
 
@@ -135,7 +134,7 @@ Bu sprintte de, ilk sprintte uymak üzere sözleştiğimiz, projenin temel taşl
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Backlog, yapılıyor, yapıldı ve notlar olmak üzere 4 liste ile temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/Daily%20Scrum%20Meeting%20Notes%20Sprint%201.docx)
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Whatsapp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 3 Daily Scrum Chats](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumSprint3.docx)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/FlutterGrup73/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/backlogsprint3.png) 
@@ -151,9 +150,9 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Backlog, yapılıyor,
 - **Sprint Review**: Bu sprintte ilk iki sprintte olduğundan daha motive bir biçimde sonuç odaklı bir yaklaşımla önceden belirlediğimiz görevleri zamanında tamamlama gayesiyle çalıştık. Öncelikli olarak giriş ekranındaki uygulama ikonumuzu netleştirdik. Kullanıcı girişi kısmı ekledik ve isim sormaya dayalı klasik, basit ama efektif bir yöntem kullandık. 2. sprintte bazılarını değiştirsek de en son ayarlamış olduğumuz dört kategoriyi ayrı ayrı renklerle özelleştirdik. "Mutlu", "Endişeli", "Duygusal" ve "Heyecanlı" kategorileriyle yolumuza devam etme kararı almıştık ve yine bu kategorilerle de süreci tamamladık. Önceki sprintlerde bu kategoriler için farklı motivasyon tabanlı mesajlar türetmiştik ve bu mesajları excelde depolamıştık. Bu mesajlarımızı uygulamamıza aktardık (yazım  yanlışlarını da kontrol edip düzelttikten sonra). Böylelikle işin tasarımsal ve kod kısmını tamamlamayı başardık ve projemizi neredeyse tamamen tamamladık. Bu aşamadan sonra ise sıralamaya girmemiz dahilinde sunum hazırlamak üzere yeniden toplanmak için sözleştik. 
 
 - **Sprint Retrospective**: Öncelikle şunu belirtmemiz lazım ki birkaç haftalık bu süreç gerçekten hızlı ve yorucu geçti. Retrospektif toplantımız genel olarak bir kutlama ve teşekkür içerikli havada gerçekleşti (Coursera'daki Google Proje Yönetimi'nde öğrendiğimiz şekilde tamamlamak istedik. Projemiz sona yaklaştığında ve onu kapatmamız gerektiğinde güzel bir kutlama yapmanın önemini ve takımdaki herkese teşekkür etmenin gerekliliğini öğrenmiştik.). En başta bu fikri sunarak projemizin temelini atan değerli Product Owner'ımız Merve'ye, genç yaşına rağmen Scrum Master gibi büyük bir rolde kendini ispatlayan Fatma'ya, yaptığı teknik ve fikri desteklerle görev adamı olan Barış'a, göze hitap eden tasarımlarıyla sanatçı kişiliğini sonuna kadar gösteren Pınar'a ve üstün kodlama bilgisiyle hepimize bir şeyler öğreten değerli Gülnihan'a teşekkürlerimizi ekip olarak sunduk.
-  -
+  
+  
 
+-**Diğer Notlar**: 
+-Projemizde emeği geçen herkese emeklerinden ötürü teşekkür ettik. Bu güzel takımı bir araya getiren Oyun ve Uygulama Akademisi ve sponsorlarına en içten dileklerimizle teşekkür ediyoruz. Bu aşamadan sonrası jürimize ve değerlendirmelere kalıyor. Mineraller Takımı, uygulama projesi D'mottie'yi gururla sunar.
 
-
--**Diğer Notlar**: Projemizde emeği geçen herkese emeklerinden ötürü teşekkür ettik. Bu güzel takımı bir araya getiren Oyun ve Uygulama Akademisi ve sponsorlarına en içten dileklerimizle teşekkür ediyoruz. Bu aşamadan sonrası jürimize ve değerlendirmelere kalıyor. Mineraller Takımı, uygulama projesi D'mottie'yi gururla sunar.
-- 
