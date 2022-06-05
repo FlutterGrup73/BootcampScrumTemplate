@@ -154,5 +154,6 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Backlog, yapılıyor,
   
 
 -**Diğer Notlar**: 
--Projemizde emeği geçen herkese emeklerinden ötürü teşekkür ettik. Bu güzel takımı bir araya getiren Oyun ve Uygulama Akademisi ve sponsorlarına en içten dileklerimizle teşekkür ediyoruz. Bu aşamadan sonrası jürimize ve değerlendirmelere kalıyor. Mineraller Takımı, uygulama projesi D'mottie'yi gururla sunar.
+-Projemizde emeği geçen herkese emeklerinden ötürü teşekkür ettik. Bu güzel takımı bir araya getiren Oyun ve Uygulama Akademisi ve sponsorlarına en içten
+dileklerimizle teşekkür ediyoruz. Bu aşamadan sonrası jürimize ve değerlendirmelere kalıyor. Mineraller Takımı, uygulama projesi D'mottie'yi gururla sunar.
 
